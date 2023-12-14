@@ -110,3 +110,30 @@ a {
     border-color: #3882F6;
     border-radius: 10px;
 }
+
+.content-two {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+}
+
+.content-two-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 900px;
+}
+
+.content-two p {
+    color: darkslategray;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.content-two span {
+    font-size: larger;
+    font-weight: bolder;
+    padding-right: 100px;
+    align-self: flex-end;
+}
