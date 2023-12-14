@@ -137,3 +137,36 @@ a {
     padding-right: 100px;
     align-self: flex-end;
 }
+
+.content-three {
+    display: flex;
+    justify-content: center;
+    padding: 100px 0;
+}
+
+.content-three-box {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    padding: 50px 80px;
+    color: white;
+    border-radius: 10px;
+    gap: 200px;
+}
+
+.content-three-box h3,
+.content-three-box p {
+    margin: 0;
+}
+
+.content-three-box button {
+    align-self: center;
+    height: 30px;
+    width: 100px;
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+    border-style: solid;
+    font-weight: bold;
+    border-radius: 5px;
+}
