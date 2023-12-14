@@ -1,2 +1,2 @@
 # odin-landing-page
-A decent looking web page created using html and css, specifically with flex. Based on https://www.theodinproject.com/lessons/foundations-landing-page.
+A decent looking web landing page created using html and css, specifically with flex. Contains no javascript and therefore has no functionality other than presentation. Based on https://www.theodinproject.com/lessons/foundations-landing-page.
